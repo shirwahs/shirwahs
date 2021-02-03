@@ -6,7 +6,7 @@ also, i work with the Designing to build up the idea of online Desig lessons whe
 ____________________________________________________________________________________________________________________________________________________________________
 
 Personal
-since January 2021, i am self-employed and founded my first Time. doing this with 11 years was not easy, but i managed to get everything up and running. check more on ShirwaHs.com.com new site launching soon!
+since January 2021, i am self-employed and founded my first Time. doing this with 11 years was not easy, but i managed to get everything up and running. check more on Shirwahs.com new site launching soon!
 
 feel free to follow my journey on instagram (@iamshirwa) or on twitter (@ShirwaHs). sometimes, i write down some thoughts and publish them on medium (@ShirwaHs) or an youtube channel (@Shirwa Hs) as well.
 
