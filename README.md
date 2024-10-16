@@ -10,6 +10,6 @@ ________________________________________________________________________________
 Personal
 since January 2021, i am self-employed and founded my first Time. doing this with 11 years was not easy, but i managed to get everything up and running. check more on www.shirwahs.com new site launching soon!
 
-feel free to follow my journey on instagram (@iamshirwa) or on twitter (@ShirwaHs). sometimes, i write down some thoughts and publish them on medium (@ShirwaHs) or an youtube channel (@Shirwa Hs) as well.
+feel free to follow my journey on instagram (@sh1rwa) or on twitter (@ShirwaHs). sometimes, i write down some thoughts and publish them on medium.
 
 have a great day everyone! 🤩
