@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-This is Shirwa Hs, a Software Engineering and developer from safarione. i focus on user-friendly experiences all across web, mobile and desktop. during over seven years of experience, i have worked at multiple start-ups and currently work as a self-employed freelancer. i am still trapped in what's called Master but it is not long to go to explore more parts of the wolrd.
+This is Shirwa Hs, I am a passionate and forward-thinking Software Engineer with a Master’s degree in Computer Science, specializing in developing scalable, efficient, and intelligent systems. My journey has been driven by a love for solving complex problems and building cutting-edge solutions that transform industries.
 
-also, i work with the Designing to build up the idea of online Design lessons where you can learn at your own speed an always have a coach available to help you with any struggles. i love it!
+With 7 years of professional experience, I’ve led the development of large-scale applications, designed cloud-native architectures, and integrated AI and blockchain technologies to optimize processes and enable secure, future-proof systems. I strive to build software that not only meets today’s needs but also anticipates the challenges of tomorrow.
+
+I am a strong advocate for innovation, continuous learning, and knowledge sharing. My professional mission is to leverage the power of software engineering, AI, and blockchain to create meaningful impact across industries, from healthcare to finance, and everything in between.
 ____________________________________________________________________________________________________________________________________________________________________
 
 Personal
