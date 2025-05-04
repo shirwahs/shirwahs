@@ -3,7 +3,7 @@ I am a Full Stack Developer and Support Operations Specialist with over 5 years 
 
 Currently, I am working with Technologies: React, Node.js, Flutter, Express, MongoDB, MySQL, JavaScript, Angular., enhancing my skills in creating efficient, secure systems. I am passionate about solving complex problems, optimizing applications, and ensuring seamless integration between different system layers.
 
-I am constantly learning new tools and techniques, currently focusing on advanced mobile app development, API integration, and cloud computing. My goal is to collaborate on innovative projects and connect with like-minded professionals to share ideas and drive meaningful tech solutions.<br><br>Currently working with:<br>- 💻 **React Native** for mobile development  <br>- 🧠 **NestJS** for powerful backend services  <br>- ☁️ Cloud & API technologies for scalability and performance  <br><br>I’m also active in **technical support operations**, optimizing workflows and enhancing system stability for users and teams.<br><br>
+I am constantly learning new tools and techniques, currently focusing on advanced mobile app development, API integration, and cloud computing. My goal is to collaborate on innovative projects and connect with like-minded professionals to share ideas and drive meaningful tech solutions.<br><br>Currently working with:<br>- 💻 **React, Node.js** for mobile development  <br>- 🧠 **NestJS** for powerful backend services  <br>- ☁️ Cloud & API technologies for scalability and performance  <br><br>I’m also active in **technical support operations**, optimizing workflows and enhancing system stability for users and teams.<br><br>
 
 
 ## 🌐 Socials:
