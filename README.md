@@ -1,5 +1,9 @@
 # 💫 About Me:
-I’m a passionate **Full Stack Developer** with over **5 years of experience** in building robust, scalable, and secure applications from front to back. I specialize in designing and implementing end-to-end systems — from pixel-perfect UIs to optimized backend architectures — while ensuring strong integration between all components.<br><br>Currently working with:<br>- 📱 **React Native** for mobile development  <br>- 🧠 **NestJS** for powerful backend services  <br>- ☁️ Cloud & API technologies for scalability and performance  <br><br>I’m also active in **technical support operations**, optimizing workflows and enhancing system stability for users and teams.<br><br>
+I am a Full Stack Developer and Support Operations Specialist with over 5 years of experience in designing and developing end-to-end solutions. I work with both front-end and back-end technologies, utilizing web and mobile frameworks, databases, and cloud services to build secure, scalable applications.
+
+Currently, I am working with React Native for mobile development and NestJS for backend services, enhancing my skills in creating efficient, secure systems. I am passionate about solving complex problems, optimizing applications, and ensuring seamless integration between different system layers.
+
+I am constantly learning new tools and techniques, currently focusing on advanced mobile app development, API integration, and cloud computing. My goal is to collaborate on innovative projects and connect with like-minded professionals to share ideas and drive meaningful tech solutions.<br><br>Currently working with:<br>- 📱 **React Native** for mobile development  <br>- 🧠 **NestJS** for powerful backend services  <br>- ☁️ Cloud & API technologies for scalability and performance  <br><br>I’m also active in **technical support operations**, optimizing workflows and enhancing system stability for users and teams.<br><br>
 
 
 ## 🌐 Socials:
